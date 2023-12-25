@@ -1,0 +1,2 @@
+com/hisagames/gobuy/BuildConfig.java
+ com.hisagames.gobuy.BuildConfig

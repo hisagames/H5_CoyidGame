@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: f0c63da520c5bf141b2dc571e437800a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6737060645395171942
+    second: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_0
+  - first:
+      213: -5887686738694172741
+    second: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_1
+  - first:
+      213: 3548342737766555273
+    second: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_2
+  - first:
+      213: 3976197961926124961
+    second: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_3
+  - first:
+      213: -2215739243399220344
+    second: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_4
+  - first:
+      213: -2429865821240574481
+    second: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_5
+  - first:
+      213: -6140401887054099569
+    second: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_6
+  - first:
+      213: -1296117793820684121
+    second: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_7
+  - first:
+      213: 7649391934832905416
+    second: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_8
+  - first:
+      213: 4842203768765803527
+    second: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_9
+  - first:
+      213: -3373635813419454136
+    second: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_10
+  - first:
+      213: 7616597646953864624
+    second: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_11
+  - first:
+      213: -5269555934091251971
+    second: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_12
+  - first:
+      213: -699109696730815279
+    second: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_13
+  - first:
+      213: -5988783639422381855
+    second: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_14
+  - first:
+      213: 3974439554127877328
+    second: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 290
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a0b0766f8de7d50800000000000000
+      internalID: 6737060645395171942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 290
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf0b5ffa1cba4ea0800000000000000
+      internalID: -5887686738694172741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 290
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e99e98bee3e3130800000000000000
+      internalID: 3548342737766555273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 290
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a52d35cafa4e2730800000000000000
+      internalID: 3976197961926124961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 204
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883fb4ac5ec1041e0800000000000000
+      internalID: -2215739243399220344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 204
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedb719d8e1674ed0800000000000000
+      internalID: -2429865821240574481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 204
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b80085409e8caa0800000000000000
+      internalID: -6140401887054099569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 204
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a05140dbb3430ee0800000000000000
+      internalID: -1296117793820684121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 114
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc047fbf69182a60800000000000000
+      internalID: 7649391934832905416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 114
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ce75f2ca6f23340800000000000000
+      internalID: 4842203768765803527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 114
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841f89b1a107e21d0800000000000000
+      internalID: -3373635813419454136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 114
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdd2c7943793b960800000000000000
+      internalID: 7616597646953864624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 26
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe60781cc6ced6b0800000000000000
+      internalID: -5269555934091251971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 26
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d424535f634c46f0800000000000000
+      internalID: -699109696730815279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 26
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0de87820193eca0800000000000000
+      internalID: -5988783639422381855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 26
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4dd0d87bb082730800000000000000
+      internalID: 3974439554127877328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_4: -2215739243399220344
+      set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_8: 7649391934832905416
+      set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_3: 3976197961926124961
+      set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_7: -1296117793820684121
+      set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_13: -699109696730815279
+      set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_11: 7616597646953864624
+      set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_0: 6737060645395171942
+      set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_2: 3548342737766555273
+      set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_14: -5988783639422381855
+      set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_9: 4842203768765803527
+      set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_15: 3974439554127877328
+      set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_6: -6140401887054099569
+      set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_1: -5887686738694172741
+      set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_10: -3373635813419454136
+      set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_5: -2429865821240574481
+      set-ui-elements-2d-games-apps-game-ui-part-1_96037-76-removebg-preview_12: -5269555934091251971
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

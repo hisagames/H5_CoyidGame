@@ -1,0 +1,697 @@
+fileFormatVersion: 2
+guid: af0c8813d054c3d47b4b3fa3e97491f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4757108851738749732
+    second: Element_Game_58-removebg-preview_0
+  - first:
+      213: -4420704961972440957
+    second: Element_Game_58-removebg-preview_1
+  - first:
+      213: 3363875734724848109
+    second: Element_Game_58-removebg-preview_2
+  - first:
+      213: -3850164424193647424
+    second: Element_Game_58-removebg-preview_3
+  - first:
+      213: 2623024672777805177
+    second: Element_Game_58-removebg-preview_4
+  - first:
+      213: -6322055112633449760
+    second: Element_Game_58-removebg-preview_5
+  - first:
+      213: 5382570952753059864
+    second: Element_Game_58-removebg-preview_6
+  - first:
+      213: -8184715438362328561
+    second: Element_Game_58-removebg-preview_7
+  - first:
+      213: -6239319238369543826
+    second: Element_Game_58-removebg-preview_8
+  - first:
+      213: -4849969839664532431
+    second: Element_Game_58-removebg-preview_9
+  - first:
+      213: 4531118207433225840
+    second: Element_Game_58-removebg-preview_10
+  - first:
+      213: 2330772985509034069
+    second: Element_Game_58-removebg-preview_11
+  - first:
+      213: 7334530317772139158
+    second: Element_Game_58-removebg-preview_12
+  - first:
+      213: -3325070446596423525
+    second: Element_Game_58-removebg-preview_13
+  - first:
+      213: 596863213445384365
+    second: Element_Game_58-removebg-preview_14
+  - first:
+      213: 804969767655855944
+    second: Element_Game_58-removebg-preview_15
+  - first:
+      213: 3813022706359881949
+    second: Element_Game_58-removebg-preview_16
+  - first:
+      213: -86341296507936640
+    second: Element_Game_58-removebg-preview_17
+  - first:
+      213: -6192900134154935592
+    second: Element_Game_58-removebg-preview_18
+  - first:
+      213: -148258535772226732
+    second: Element_Game_58-removebg-preview_19
+  - first:
+      213: -2601229863359879421
+    second: Element_Game_58-removebg-preview_20
+  - first:
+      213: -3172123648410228388
+    second: Element_Game_58-removebg-preview_21
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Element_Game_58-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 302
+        width: 88
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b21c1eb45a40240800000000000000
+      internalID: 4757108851738749732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element_Game_58-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 288
+        width: 86
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38073dc424086a2c0800000000000000
+      internalID: -4420704961972440957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element_Game_58-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 296
+        width: 88
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9a4dc7823eeae20800000000000000
+      internalID: 3363875734724848109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element_Game_58-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 283
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc5711fad7719ac0800000000000000
+      internalID: -3850164424193647424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element_Game_58-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 293
+        width: 143
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d9102ea0bd66420800000000000000
+      internalID: 2623024672777805177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element_Game_58-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 209
+        width: 121
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e28a09ee5c8348a0800000000000000
+      internalID: -6322055112633449760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element_Game_58-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8189e2173cbb2ba40800000000000000
+      internalID: 5382570952753059864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element_Game_58-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 198
+        width: 143
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0202cc5cac0a6e80800000000000000
+      internalID: -8184715438362328561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element_Game_58-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 266
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69f8b4c53c7969a0800000000000000
+      internalID: -6239319238369543826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element_Game_58-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 228
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134ff67802271bcb0800000000000000
+      internalID: -4849969839664532431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element_Game_58-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 235
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076bc55b004c1ee30800000000000000
+      internalID: 4531118207433225840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element_Game_58-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 236
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558b75d6ea1985020800000000000000
+      internalID: 2330772985509034069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element_Game_58-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 235
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a2429c67c79c560800000000000000
+      internalID: 7334530317772139158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element_Game_58-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 235
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b908879bb0afad1d0800000000000000
+      internalID: -3325070446596423525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element_Game_58-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 235
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da809e82eeb784800800000000000000
+      internalID: 596863213445384365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element_Game_58-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 122
+        width: 121
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8475e002db3db2b00800000000000000
+      internalID: 804969767655855944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element_Game_58-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 30
+        width: 265
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0541df2f39ae430800000000000000
+      internalID: 3813022706359881949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element_Game_58-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 122
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080a23c5c014dcef0800000000000000
+      internalID: -86341296507936640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element_Game_58-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 122
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2e93ea3266e0aa0800000000000000
+      internalID: -6192900134154935592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element_Game_58-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 35
+        width: 121
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b7060b5a741fdf0800000000000000
+      internalID: -148258535772226732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element_Game_58-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 44
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307eb4f983396ebd0800000000000000
+      internalID: -2601229863359879421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element_Game_58-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 43
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5964e0395a5af3d0800000000000000
+      internalID: -3172123648410228388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Element_Game_58-removebg-preview_15: 804969767655855944
+      Element_Game_58-removebg-preview_7: -8184715438362328561
+      Element_Game_58-removebg-preview_12: 7334530317772139158
+      Element_Game_58-removebg-preview_8: -6239319238369543826
+      Element_Game_58-removebg-preview_4: 2623024672777805177
+      Element_Game_58-removebg-preview_1: -4420704961972440957
+      Element_Game_58-removebg-preview_11: 2330772985509034069
+      Element_Game_58-removebg-preview_19: -148258535772226732
+      Element_Game_58-removebg-preview_13: -3325070446596423525
+      Element_Game_58-removebg-preview_18: -6192900134154935592
+      Element_Game_58-removebg-preview_14: 596863213445384365
+      Element_Game_58-removebg-preview_5: -6322055112633449760
+      Element_Game_58-removebg-preview_16: 3813022706359881949
+      Element_Game_58-removebg-preview_21: -3172123648410228388
+      Element_Game_58-removebg-preview_10: 4531118207433225840
+      Element_Game_58-removebg-preview_2: 3363875734724848109
+      Element_Game_58-removebg-preview_3: -3850164424193647424
+      Element_Game_58-removebg-preview_17: -86341296507936640
+      Element_Game_58-removebg-preview_0: 4757108851738749732
+      Element_Game_58-removebg-preview_6: 5382570952753059864
+      Element_Game_58-removebg-preview_20: -2601229863359879421
+      Element_Game_58-removebg-preview_9: -4849969839664532431
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

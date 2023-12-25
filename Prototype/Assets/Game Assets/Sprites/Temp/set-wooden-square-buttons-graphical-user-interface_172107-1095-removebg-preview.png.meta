@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 47e15e0e1709f4f4d93ed7767107f0fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7073716586327089756
+    second: set-wooden-square-buttons-graphical-user-interface_172107-1095-removebg-preview_0
+  - first:
+      213: 6338949315347244698
+    second: set-wooden-square-buttons-graphical-user-interface_172107-1095-removebg-preview_1
+  - first:
+      213: -7835823246352336198
+    second: set-wooden-square-buttons-graphical-user-interface_172107-1095-removebg-preview_2
+  - first:
+      213: -4148722349978863580
+    second: set-wooden-square-buttons-graphical-user-interface_172107-1095-removebg-preview_3
+  - first:
+      213: 919664732731836228
+    second: set-wooden-square-buttons-graphical-user-interface_172107-1095-removebg-preview_4
+  - first:
+      213: -6259166891640268156
+    second: exit
+  - first:
+      213: -1252124863860185401
+    second: set-wooden-square-buttons-graphical-user-interface_172107-1095-removebg-preview_6
+  - first:
+      213: 5916331270172166828
+    second: set-wooden-square-buttons-graphical-user-interface_172107-1095-removebg-preview_7
+  - first:
+      213: 1520554142369892486
+    second: set-wooden-square-buttons-graphical-user-interface_172107-1095-removebg-preview_8
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 300, y: 161, z: 207, w: 139}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: set-wooden-square-buttons-graphical-user-interface_172107-1095-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 286
+        width: 118
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad5f2e2e3c15dd90800000000000000
+      internalID: -7073716586327089756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-wooden-square-buttons-graphical-user-interface_172107-1095-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 286
+        width: 287
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a966a7e21d878f750800000000000000
+      internalID: 6338949315347244698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-wooden-square-buttons-graphical-user-interface_172107-1095-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 286
+        width: 216
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ababb6ef540914390800000000000000
+      internalID: -7835823246352336198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-wooden-square-buttons-graphical-user-interface_172107-1095-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 170
+        width: 117
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42839c9e007cc66c0800000000000000
+      internalID: -4148722349978863580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-wooden-square-buttons-graphical-user-interface_172107-1095-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 170
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4478feaa33e43cc00800000000000000
+      internalID: 919664732731836228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 166
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a55e1efd8f229a0800000000000000
+      internalID: -6259166891640268156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-wooden-square-buttons-graphical-user-interface_172107-1095-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 54
+        width: 208
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6ed23021f8f9ee0800000000000000
+      internalID: -1252124863860185401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-wooden-square-buttons-graphical-user-interface_172107-1095-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 54
+        width: 272
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caac524b1f70b1250800000000000000
+      internalID: 5916331270172166828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-wooden-square-buttons-graphical-user-interface_172107-1095-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 54
+        width: 118
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688c4bdafe71a1510800000000000000
+      internalID: 1520554142369892486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      set-wooden-square-buttons-graphical-user-interface_172107-1095-removebg-preview_3: -4148722349978863580
+      set-wooden-square-buttons-graphical-user-interface_172107-1095-removebg-preview_2: -7835823246352336198
+      set-wooden-square-buttons-graphical-user-interface_172107-1095-removebg-preview_7: 5916331270172166828
+      set-wooden-square-buttons-graphical-user-interface_172107-1095-removebg-preview_0: -7073716586327089756
+      set-wooden-square-buttons-graphical-user-interface_172107-1095-removebg-preview_8: 1520554142369892486
+      set-wooden-square-buttons-graphical-user-interface_172107-1095-removebg-preview_4: 919664732731836228
+      exit: -6259166891640268156
+      set-wooden-square-buttons-graphical-user-interface_172107-1095-removebg-preview_1: 6338949315347244698
+      set-wooden-square-buttons-graphical-user-interface_172107-1095-removebg-preview_6: -1252124863860185401
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
